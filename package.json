@@ -10,7 +10,7 @@
     "build:firefox": "plasmo build --target=firefox-mv3",
     "package": "plasmo package",
     "package:firefox": "plasmo package --target=firefox-mv3",
-    "lint": "eslint --ext .tsx,.ts src",
+    "lint": "eslint --ext .tsx .ts src",
     "lint:fix": "eslint --fix --ext .tsx,.ts src",
     "lint:report": "eslint --ext .tsx,.ts --output-file eslint_report.json --format json src",
     "preinstall": "npx -y only-allow pnpm"
