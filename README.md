@@ -7,6 +7,6 @@ Enhance your movie-web experience with just one click
 We use pnpm with the latest version of NodeJS.
 
 ```sh
-pnpm i
+pnpm install
 pnpm dev
 ```

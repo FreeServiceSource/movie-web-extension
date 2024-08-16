@@ -10,7 +10,7 @@ export const DEFAULT_DOMAIN_WHITELIST = [
   'bmov.vercel.app',
   'stream.thehairy.me',
   'scootydooter.vercel.app',
-  'movie-web-me.vercel.app',
+  'micromatrix.cf'
 ];
 
 export const storage = new Storage();
